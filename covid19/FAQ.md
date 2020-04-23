@@ -3,6 +3,12 @@
 
 ![NHS PPE Diagram](https://user-images.githubusercontent.com/1537834/77834073-c0351400-7139-11ea-9014-1614a5902976.png)
 
+ * How Do We Talk About This?
+
+It's an exciting story to say you are helping out in the crisis, but it's important to always give as much context for what we are doing as possible and not let important details get left out, especially the conditions that we are making them in, the conditions of use that might make them effective, who might use them (people at NMC and the 3D print club only initially) and the limited impact, if we are honest, we might make to the general supply crisis related to the pandemic. That is a structural problem in society that really should not have to be 'fixed' by amateur makers. 
+
+Be clear that we are not supplying the NHS, but are experimenting with designs from the Maker community to make **Protective Face Visors**. It's important to not call them masks, as this refers to the FFP3/2 rated breathing masks that most effectively filter droplets and particulates that might harbour the virus. It's important not to overstate the protection they may or may not be provided by their use. They must be used with appropriate breathing masks to be fully effective.
+
 
  * Will this protect me from Coronavirus?
 
