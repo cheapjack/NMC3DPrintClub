@@ -1,0 +1,1 @@
+Surgical mask strap (updated 16/04/2020) Hair clip version by marslam on Thingiverse: https://www.thingiverse.com/thing:4202906
