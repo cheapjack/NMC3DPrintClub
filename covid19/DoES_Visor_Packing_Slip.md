@@ -64,4 +64,4 @@ We're doing everything we can to make these products the best they can
 be.
 
 Please send your feedback to
-**[[covid\@doesliverpool.com]{.underline}](mailto:covid@doesliverpool.com)**
+**[[kay.briggs\@nmcentre.com]{.underline}](mailto:kay.briggs@nmcentre.com)**
