@@ -1,7 +1,7 @@
 
 ## FAQ
 
-![NHS PPE Diagram](https://user-images.githubusercontent.com/1537834/77834073-c0351400-7139-11ea-9014-1614a5902976.png)
+![NHS PPE Diagram](images/ppe-diagram2.png)
 
  * How Do We Talk About This?
 
