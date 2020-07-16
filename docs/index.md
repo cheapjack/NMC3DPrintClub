@@ -26,7 +26,7 @@ We are also providing a [Surgical Mask Strap Support](#surgical-mask-strap)
 
 This helps cover material costs and any profit will go to supporting the NMC.
 
-Item|Cost
+Item|Donation
 ---|---
 3D Printed Face Visor Kit, with Frame & 2 acetate sheets|£5
 Extra clean transparent visor acetate sheet|£1
