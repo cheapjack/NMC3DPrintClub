@@ -1,4 +1,3 @@
-# NMC 3D Print Club 📦🖨️♣️
 
 ![NMC Logo 3D model](images/NMC.png)
 
@@ -33,7 +32,9 @@ Item|Cost
 Extra clean transparent visor acetate sheet|£1
 3D Printed Surgical Mask Strap|£1
 
-# What You Get in Your Visor kit 📦 
+
+
+## What You Get in Your Visor kit 📦 
 
  1. 3D Printed Visor made from [PTGE](https://en.wikipedia.org/wiki/3D_printing_filament#Materials)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
@@ -79,7 +80,7 @@ We'll make sure we make and pack the printed visors as safely as possible and th
 
 We are experimenting with how 3D printing can help our community. We must be completely clear on the limited nature of the protection this design may provide. If it only makes us aware of the dangers of contagion, how we behave, who and what we are in contact with, how many times we touch our faces, then that is useful but we should be careful how we present whatever we do.
 
-Please consult our [Visor Packing Note](../covid19/Visor_Packing_Slip.md) to explain the limits of use further.
+Please consult our [Visor Packing Note](https://github.com/cheapjack/NMC3DPrintClub/blob/master/covid19/Visor_Packing_Slip.md) to explain the limits of use further.
 
 ### How Do We Talk About This? 🗣️
 
