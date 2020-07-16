@@ -50,7 +50,7 @@ See the images below to assemble and use your Face Visor.
 
 We reviewed this [comprehensive list and notes](https://github.com/DoESLiverpool/covid19/blob/master/FaceShield.md) before settling on using [Maker Mike Lauderdale's Design](https://www.thingiverse.com/thing:4253904/) because it's really easy to print and assemble without needing any additional equipment. It fits a standard elastic band and A4 180 micron thick Acetate sheets. We've printed a few and they work really well and are surprisingly comfortable.
 
-### Surgical Mask Strap 😷
+### Surgical Mask Strap
 
 Kay has a [design for a Surgical Mask Strap Support](https://www.thingiverse.com/thing:4202906) that supports long term face mask use. 
 
