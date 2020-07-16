@@ -39,10 +39,12 @@ Extra clean transparent visor acetate sheet|£1
  1. 3D Printed Visor made from [PTGE](https://en.wikipedia.org/wiki/3D_printing_filament#Materials)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
  1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell
+<br>
+<br>
 
 ### How to Assemble & Use 🔧
 
-See the images below to assemble and use your Face Visor.
+See the images below to assemble and use your Face Visor. PLEASE NOTE We cannot confirm they can be made 100% sterile. However they can be carefully cleaned with hot soapy water or 99% alcohol handwash as detailed below (not 100% to ensure the alcohol can penetrate the virus lipid surface). RE-USE is at the users OWN RISK. We advise to only have a SINGLE USER OF ANY VISOR and REPLACE the acetate sheet regularly.
 
 ![Manual Page 2](images/Assembly2.png)
 ![Manual Page 1](images/Assembly1.png)
@@ -93,18 +95,21 @@ Be clear that we are not supplying the NHS, or replacing 'official' equipment bu
 
 Only in a limited way. A face visor on it's own will not protect against airbourne aerosols or droplets that may contain the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course be inhaled from behind the visor. It does provide protection, but only in a very limited way. It is only one part of the required PPE.
 
-### Can I use it more than once? 😷
+### Can I Use It More Than Once? 
 
- Ideally they are single use only. However they can be carefully sterilised with hot soapy water or 99% alcohol handwash (not 100% to ensure the alcohol can penetrate the virus lipid surface)
+ Ideally they are single use only because we cannot confirm they can be made 100% sterile. However they can be carefully cleaned with hot soapy water or 99% alcohol handwash as detailed in the diagrams above (not 100% to ensure the alcohol can penetrate the virus lipid surface). Again this is at the users OWN RISK. We advise to only have a SINGLE USER OF ANY VISOR and REPLACE the acetate sheet regularly.
 
-### Is these official NHS PPE? 😷
+### Is This Official NHS PPE? 😷
 
  Not the designs we suggest. We must acknowledge that these visors are not 'official' NHS England approved, but a best fit contingency in the context of a supply crisis.
 
-### Do these designs help the NHS? 😷
+### Do These Designs Help the NHS? 😷
 
  We can probably best help the NHS following the government guidelines for the present lockdown situation. Also use your own common sense and protect other humans. These visors though are something we can experiment with for ourselves if we need to visit the NMC or work there or shop near others and potentially use post-lockdown in the absence of more appropriate PPE. If we can help the critical demand for PPE by not adding more to it, it's helpful but we must understand this is not a simple story of 3D printers saving lives. We are not doing that. People like DoESLiverpool have had a community working at it, but even then it is not to replace conventionally manufactured PPE visors but to help in an emergency.
 
+### Are we Selling PPE?
+
+No, to be clear they are not for sale, but available with an expected donation to cover material costs and support the NMC.
 
 ### How Can I help? ✊
 
