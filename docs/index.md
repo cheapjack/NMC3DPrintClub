@@ -110,6 +110,6 @@ Only in a limited way. A face visor on it's own will not protect against airbour
 
 Best help would be to social distance and shield as much as you can under NHS advice and take care of the others around you where possible. Also keep in touch with other members of the NMC community and the [NMC Website](http://www.nmcentre.com/)
 
-
+You can browse all the source files of the prints and more extensive info in the [project repository](https://github.com/cheapjack/NMC3DPrintClub)
 
 
