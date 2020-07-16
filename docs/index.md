@@ -44,8 +44,8 @@ Extra clean transparent visor acetate sheet|£1
 
 See the images below to assemble and use your Face Visor.
 
-![Manual Page 1](images/Assembly1.png)
 ![Manual Page 2](images/Assembly2.png)
+![Manual Page 1](images/Assembly1.png)
 
 ### Design We Use 📋
 
