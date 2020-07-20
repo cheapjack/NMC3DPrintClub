@@ -1,12 +1,13 @@
 
-![NMC Logo 3D model](images/NMC.png)
+<img src="images/NMC.png" alt="NMC Logo 3D print Model Image" width="300">
 
 News, files and guidance for the 3D Print Club at the [NeuroMuscular Centre](http://www.nmcentre.com/)
 
 
 ## PPE 😷
 
-![Mike Lauderdale's Face Visor Design Printed and Assembled](images/face-visor-main-image.png)
+<img src="images/NMCDoESPPE.jpg" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
+<img src="face-visor-main-image.png" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
 
 The NMC 3D Print Club have been monitoring the national (& international) 'maker' community response to the PPE supply crisis relating to the COVID-19 pandemic and have followed closely the designs of protective face visors that [DoESLiverpool](https://doesliverpool.com) have been using for their [PPE Manufacturing effort](https://ppe.doesliverpool.com/).
 
