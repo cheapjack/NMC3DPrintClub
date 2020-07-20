@@ -38,7 +38,7 @@ Extra clean transparent visor acetate sheet|£1
 
  1. 3D Printed Visor made from [PETG](https://prusament.com/media/2020/01/PETG_TechSheet_ENG.pdf)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
- 1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell
+ 1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell)
 <p>
 <br>
 <br>
@@ -92,7 +92,7 @@ It's an exciting story to say we are helping out in the crisis, but it's importa
 Be clear that we are not supplying the NHS, or replacing 'official' equipment but are experimenting with designs from the Maker community to make **3D Printed Protective Face Visors**. It's important to not call them masks, as this refers to the FFP3/2 or N95 rated breathing masks that most effectively filter droplets and particulates that might harbour the virus. It's important not to overstate the protection that may or may not be provided by their use. They must be used with appropriate breathing masks, hygeine and social distancing practices to be fully effective.
 
 
-### Will this protect me from Coronavirus? 😷
+### Will This Protect Myself & Others From Coronavirus? 😷
 
 Only in a limited way. A face visor on it's own will not protect against airbourne aerosols or droplets that may contain the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course be inhaled from behind the visor. It does provide protection, but only in a very limited way. It is only one part of the required PPE.
 
