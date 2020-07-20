@@ -36,9 +36,10 @@ Extra clean transparent visor acetate sheet|£1
 
 ## What You Get in Your Visor kit 📦 
 
- 1. 3D Printed Visor made from [PTGE](https://en.wikipedia.org/wiki/3D_printing_filament#Materials)
+ 1. 3D Printed Visor made from [PETG](https://prusament.com/media/2020/01/PETG_TechSheet_ENG.pdf)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
  1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell
+<p>
 <br>
 <br>
 
