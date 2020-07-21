@@ -7,7 +7,8 @@ News, files and guidance for the 3D Print Club at the [NeuroMuscular Centre](htt
 ## PPE 😷
 
 <img src="images/NMCDoESPPE.jpg" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
-<img src="face-visor-main-image.png" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
+
+<img src="images/face-visor-main-image.png" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
 
 The NMC 3D Print Club have been monitoring the national (& international) 'maker' community response to the PPE supply crisis relating to the COVID-19 pandemic and have followed closely the designs of protective face visors that [DoESLiverpool](https://doesliverpool.com) have been using for their [PPE Manufacturing effort](https://ppe.doesliverpool.com/).
 
@@ -40,7 +41,8 @@ Extra clean transparent visor acetate sheet|£1
  1. 3D Printed Visor made from [PETG](https://prusament.com/media/2020/01/PETG_TechSheet_ENG.pdf)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
  1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell)
-<p>
+
+
 <br>
 <br>
 
