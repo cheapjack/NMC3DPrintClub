@@ -11,7 +11,9 @@ Face Shield
 ⚠️ Warnings 
 -----------
 
-PLEASE DO NOT OPEN UNTIL 3 DAYS AFTER "DATE OF PACKAGING"
+WE RECCOMMEND CLEANING BEFORE USE
+PLEASE REFER TO THE WEBSITE FOR FURTHER INSTRUCTIONS
+**cheapjack.github.io/NMC3DPrintClub/**
 
 ## Disclaimer
 
@@ -50,11 +52,8 @@ supply of medical grade, approved PPE devices to staff in contact with
 patients with COVID-19.
 
 We are advised that these face shields, particularly the acetate sheet are single use only. 
-Although it is possible to disinfect the visor frame the re-use or re-sterilisation of this is ENTIRELY AT YOUR OWN RISK. It is expected that these face shields will be used in
-conjunction with a face mask protecting the nose and mouth, in
-accordance with relevant guidelines. Face shields are not a replacement
-for, and do not negate, the need for users to continue to stringently
-follow recommended hygiene and social distancing practices or other relevant guidelines.
+
+Although it is possible to disinfect the visor frame the re-use or re-sterilisation of this is ENTIRELY AT YOUR OWN RISK. It is expected that these face shields will be used in conjunction with a face mask protecting the nose and mouth, in accordance with relevant guidelines. Face shields are not a replacement for, and do not negate, the need for users to continue to stringently follow recommended hygiene and social distancing practices or other relevant guidelines.
 
 Recipients of these face shields are required to provide a copy of this
 disclaimer to any third party before distributing these face shields.

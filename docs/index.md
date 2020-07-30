@@ -25,6 +25,8 @@ So we made a donation to the [DoESLiverpool PPE Manufacturing Project](https://p
 
 We are starting to print and test a design by [Maker Mike Lauderdale's Design](https://www.thingiverse.com/thing:4253904/) and we'll be making them available in the NMC or on request but would like a small donation to cover costs. 
 
+<img src="images/Strap.jpg" width="400" align="center"> 
+
 We are also providing a [Surgical Mask Strap Support](#surgical-mask-strap)
 
 This helps cover material costs and any profit will go to supporting the NMC.
@@ -38,6 +40,8 @@ Extra clean transparent visor acetate sheet|£1
 ## How Do I Get a Visor? 🤔
 
 Please contact **[kay.briggs@nmcentre.com](mailto:kay.briggs@nmcentre.com)** to order one and send your donation to our [Just Giving Page](https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1003016)
+
+Please note that this is a volunteer project and we are making each kit to order so please be patient and we will do our best to get your kit to you within a week.
 
 ## What You Get in Your Visor kit 📦 
 
