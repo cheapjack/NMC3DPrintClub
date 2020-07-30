@@ -1,14 +1,15 @@
 
-<img src="images/NMC.png" alt="NMC Logo 3D print Model Image" width="300">
+![NMC Logo 3D print Model Image](images/NMC.png)
+
 
 News, files and guidance for the 3D Print Club at the [NeuroMuscular Centre](http://www.nmcentre.com/)
 
 
 ## PPE 😷
 
-<img src="images/NMCDoESPPE.jpg" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
+![Mike Lauderdale's Face Visor Design Printed and Worn Image](images/NMCPrintWorn.jpg)
 
-<img src="images/face-visor-main-image.png" alt="Mike Lauderdale's Face Visor Design Printed and Assembled Image" width="300">
+![Mike Lauderdale's Face Visor Design Printed and Assembled Image](images/face-visor-main-image.png)
 
 The NMC 3D Print Club have been monitoring the national (& international) 'maker' community response to the PPE supply crisis relating to the COVID-19 pandemic and have followed closely the designs of protective face visors that [DoESLiverpool](https://doesliverpool.com) have been using for their [PPE Manufacturing effort](https://ppe.doesliverpool.com/).
 
@@ -34,7 +35,9 @@ Item|Donation
 Extra clean transparent visor acetate sheet|£1
 3D Printed Surgical Mask Strap|£1
 
+## How Do I Get a Visor? 🤔
 
+Please contact **[kay.briggs\@nmcentre.com](mailto:kay.briggs@nmcentre.com)** to order one and send your donation to our [Just Giving Page](https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1003016)
 
 ## What You Get in Your Visor kit 📦 
 
@@ -43,12 +46,11 @@ Extra clean transparent visor acetate sheet|£1
  1. Elastic (For you to cut to size and comfort, an elastic band can work just aswell)
 
 
-<br>
-<br>
-
 ### How to Assemble & Use 🔧
 
 See the images below to assemble and use your Face Visor. PLEASE NOTE We cannot confirm they can be made 100% sterile. However they can be carefully cleaned with hot soapy water or 99% alcohol handwash as detailed below (not 100% to ensure the alcohol can penetrate the virus lipid surface). RE-USE is at the users OWN RISK. We advise to only have a SINGLE USER OF ANY VISOR and REPLACE the acetate sheet regularly.
+
+You can also place the acetate sheet in a 'landscape' orientation which some users have recommended.  
 
 ![Manual Page 2](images/Assembly2.png)
 ![Manual Page 1](images/Assembly1.png)
@@ -57,7 +59,7 @@ See the images below to assemble and use your Face Visor. PLEASE NOTE We cannot 
 
 We reviewed this [comprehensive list and notes](https://github.com/DoESLiverpool/covid19/blob/master/FaceShield.md) before settling on using [Maker Mike Lauderdale's Design](https://www.thingiverse.com/thing:4253904/) because it's really easy to print and assemble without needing any additional equipment. It fits a standard elastic band and A4 180 micron thick Acetate sheets. We've printed a few and they work really well and are surprisingly comfortable.
 
-### Surgical Mask Strap
+### Surgical Mask Strap 😷
 
 Kay has a [design for a Surgical Mask Strap Support](https://www.thingiverse.com/thing:4202906) that supports long term face mask use. 
 
@@ -82,6 +84,27 @@ We'll make sure we make and pack the printed visors as safely as possible and th
 
 ![Visor diagram](images/face2.jpg)
 
+### Will This Protect Myself & Others From Coronavirus? 😷
+
+Only in a limited way. A face visor on it's own will not protect yourself or others against airbourne aerosols or droplets that may carry the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you and others from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course get behind the visor, like wise particulates from exhaling can get around the visor, without the appropriate mask. 
+
+In summary it does provide *some* protection, but only in a *limited* way which we describe here. It is only one part of the required PPE and is not recommended or endorsed by the NHS in any 'official' capacity.
+
+You must always take care removing the visor that you dont spread particulates that might be on the inside or outside of the clear plastic. You must take care changing the clear PVC sheet: we advise wiping with warm soapy water first, then removing and then cleaning the frame.
+
+Please ensure read the [Visor Packing Note](https://github.com/cheapjack/NMC3DPrintClub/blob/master/covid19/Visor_Packing_Slip.md) provided before using.
+
+### Can I Use It More Than Once? 🤔 
+
+Ideally they are single use only because we cannot confirm they can be made 100% sterile. However they *can* be carefully cleaned to a reasonable low risk, with hot soapy water or 99% alcohol handwash as detailed in the diagrams above (not 100% to ensure the alcohol can penetrate the virus lipid surface). Again this is at the users OWN RISK. We advise to only have a **SINGLE USER OF ANY VISOR** and **CLEAN** and **REPLACE** the acetate sheet regularly.
+
+Ensure the components dry fully. Consider 2 visors to interchange if you are going to use it often.
+
+### Is This Official NHS PPE? 😷
+
+Not the designs we suggest. We must acknowledge that these visors are not 'official' NHS England approved, but a best fit contingency in the context of a supply crisis.
+
+
 ### What are We Doing? 🔧
 
 We are experimenting with how 3D printing can help our community. We must be completely clear on the limited nature of the protection this design may provide. If it only makes us aware of the dangers of contagion, how we behave, who and what we are in contact with, how many times we touch our faces, then that is useful but we should be careful how we present whatever we do.
@@ -94,24 +117,11 @@ It's an exciting story to say we are helping out in the crisis, but it's importa
 
 Be clear that we are not supplying the NHS, or replacing 'official' equipment but are experimenting with designs from the Maker community to make **3D Printed Protective Face Visors**. It's important to not call them masks, as this refers to the FFP3/2 or N95 rated breathing masks that most effectively filter droplets and particulates that might harbour the virus. It's important not to overstate the protection that may or may not be provided by their use. They must be used with appropriate breathing masks, hygeine and social distancing practices to be fully effective.
 
-
-### Will This Protect Myself & Others From Coronavirus? 😷
-
-Only in a limited way. A face visor on it's own will not protect against airbourne aerosols or droplets that may contain the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course be inhaled from behind the visor. It does provide protection, but only in a very limited way. It is only one part of the required PPE.
-
-### Can I Use It More Than Once? 
-
- Ideally they are single use only because we cannot confirm they can be made 100% sterile. However they can be carefully cleaned with hot soapy water or 99% alcohol handwash as detailed in the diagrams above (not 100% to ensure the alcohol can penetrate the virus lipid surface). Again this is at the users OWN RISK. We advise to only have a SINGLE USER OF ANY VISOR and REPLACE the acetate sheet regularly.
-
-### Is This Official NHS PPE? 😷
-
- Not the designs we suggest. We must acknowledge that these visors are not 'official' NHS England approved, but a best fit contingency in the context of a supply crisis.
-
 ### Do These Designs Help the NHS? 😷
 
  We can probably best help the NHS following the government guidelines for the present lockdown situation. Also use your own common sense and protect other humans. These visors though are something we can experiment with for ourselves if we need to visit the NMC or work there or shop near others and potentially use post-lockdown in the absence of more appropriate PPE. If we can help the critical demand for PPE by not adding more to it, it's helpful but we must understand this is not a simple story of 3D printers saving lives. We are not doing that. People like DoESLiverpool have had a community working at it, but even then it is not to replace conventionally manufactured PPE visors but to help in an emergency.
 
-### Are we Selling PPE?
+### Are we Selling PPE? 🤔
 
 No, to be clear they are not for sale, but available with an expected donation to cover material costs and support the NMC.
 
