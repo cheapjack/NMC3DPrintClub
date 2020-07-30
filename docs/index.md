@@ -37,7 +37,7 @@ Extra clean transparent visor acetate sheet|£1
 
 ## How Do I Get a Visor? 🤔
 
-Please contact **[kay.briggs\@nmcentre.com](mailto:kay.briggs@nmcentre.com)** to order one and send your donation to our [Just Giving Page](https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1003016)
+Please contact **[kay.briggs@nmcentre.com](mailto:kay.briggs@nmcentre.com)** to order one and send your donation to our [Just Giving Page](https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1003016)
 
 ## What You Get in Your Visor kit 📦 
 
