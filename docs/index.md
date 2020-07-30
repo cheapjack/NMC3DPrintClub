@@ -80,7 +80,7 @@ We'll make sure we make and pack the printed visors as safely as possible and th
 
 ## FAQ 📋
 
-![NHS PPE Diagram](images/ppe-diagram2.png)
+![Visor diagram](images/face2.jpg)
 
 ### What are We Doing? 🔧
 
