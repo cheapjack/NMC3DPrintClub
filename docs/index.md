@@ -7,7 +7,7 @@ News, files and guidance for the 3D Print Club at the [NeuroMuscular Centre](htt
 
 ## PPE 😷
 
-![Mike Lauderdale's Face Visor Design Printed and Worn Image](images/NMCPrintWorn.jpg)
+![Mike Lauderdale's Face Visor Design Printed and Worn Image](images/NMCPrintWorn.png)
 
 ![Mike Lauderdale's Face Visor Design Printed and Assembled Image](images/face-visor-main-image.png)
 
