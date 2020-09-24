@@ -84,7 +84,8 @@ module my_maze(scale){
 // We'll use external dimensions for the outermost edge of the object then subtract the wall_thickness from the external dimensions to workout the size of the void inside
 
 module blanking_plate(external_width, external_depth, external_height, wall_thickness, lid_height, colour){
-//
+    // Use difference to remove one shape from another
+    // Second and following shapes are removed from the first
     difference(){
         translate([0, 0, 0])
             myCube(external_width, external_depth,external_height, "red");
