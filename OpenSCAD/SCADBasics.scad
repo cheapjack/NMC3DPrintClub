@@ -37,10 +37,11 @@ cylinder_height = 20;
 cylinder(cylinder_height,d=10);
 // don't forget to finish any command or function with a ';'
 // or it won't run
+// move the start position 30mm on x axis then call blanking_plate()
 translate([30, 0, 0])blanking_plate(20, 20, 20, 5, 1,"red");
-// Call the maze importer but translate it -30 on x axis
+// Call the maze importer but translate it -30 on x axis first
 translate([-30, 0, 0])my_maze(maze_scale);
-// Uncomment the below to get another one
+// Uncomment the below to get another one, but shifted 30 on the y axis
 //translate([0, 30, 0])my_maze(maze_scale);
 ////////////////////////////////////////////
 // MODULE DEFINITIONS
@@ -59,21 +60,21 @@ translate([-30, 0, 0])my_maze(maze_scale);
 module myCube(width,depth,my_height,my_colour){
     // note the command 'color' is US spelling
     color(my_colour)
-            // extrude the following by my_height 
+            // extrude the following object by my_height 
             linear_extrude(height = my_height)
-                // draw a square to be extruded
+                // draw the square to be extruded, make it draw from the centre
                 square([width, depth], center = true);
 }
 
 // Make the maze importing module
 
-module my_maze(scale){
+module my_maze(my_scale){
     // scale the imported file by scale eg 0.25 is 25%
     // along the x, y, z axes
-    scale([scale,scale,scale])
+    scale([my_scale,my_scale,my_scale])
     // import the file path.
     // if you keep the imported file in theu same directory
-    // as your .scad code you can just use the file name
+    // as your .scad code you can just use the file name and convexity is a standard 3
         import("MazeExample.stl", convexity=3);
 }
 // dont forget the enclosing curly bracket
@@ -84,7 +85,7 @@ module my_maze(scale){
 // We'll use external dimensions for the outermost edge of the object then subtract the wall_thickness from the external dimensions to workout the size of the void inside
 
 module blanking_plate(external_width, external_depth, external_height, wall_thickness, lid_height, colour){
-    // Use difference to remove one shape from another
+    // Use difference() function to remove one shape from another
     // Second and following shapes are removed from the first
     difference(){
         translate([0, 0, 0])
