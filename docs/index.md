@@ -11,14 +11,23 @@ Insipred by local makers like [DoESLiverpool](https://doesliverpool.com/) we sta
 
 Have a look at Ross's [introduction to 3D printing](https://slides.com/cheapjack/ross-dalziel) from last year and browse all the source files of the prints and more extensive info in our [project repository](https://github.com/cheapjack/NMC3DPrintClub)
 
-## Social Accounting
+# Social Accounting 📁🌲
 
-<img src="images/MoodTree.jpg" width="400" align="center"> 
+<img src="images/MoodTree.jpg" width="400" align="center">
 
 This club has had a really positive affect on all of us, especially during lockdown. Part of the club was thinking up an alternative way of visualising moods and feelings with 3D Printing; Chris designed a "Mood Tree" so you could hang little 3D printed (or other things) on it to represent your mood. You can view and download the files for printing [here](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/moodtree)
 
+# Interspecies Gaming 🦟🎮
 
-## PPE 😷
+<img src="images/PyramidFarmFix2.jpg" wifth="400" align="center" alt="Ant Farm Kit from eBay with 3D printed pyramid">
+
+For a whle now we've been working on 3D printed environments presented as educational 'kits' to play with fruit flys, the '[model organism](https://en.wikipedia.org/wiki/Model_organism)' *Drosophila melanogasta*. This organism is used in genetics and the study of - amongst many other things - neuromuscular conditions like Muscular Dystrophy that affect many of us in the group.
+
+Our original idea was to imagine and design  environments Fruit flies that 'had' i.e. expressed the muscular condition that leads to Muscular Dystrophy, could live in. Doing this was a way of thinking about our own genetic conditions and how biomedical science studies neuromuscular conditions. Rather than using flies that actually have muscular dystrophy, we used flies that were already bred and supplied on eBay to be flightless, usually used for people who have aquariums and other pet environments to make 'natural' ecosystems for fish and reptiles. These flies have underdeveloped wings that means they dont fly, a parallel to our own limitations.
+
+We are designing 3D printed landscapes and mazes to fit an existing ant farm kit on eBay - see the image above which lets you safely feed and take care of these flys. Eventually we want the kit to help people understand biomedical science and reflect on our own conditions and environments - and how we care for each other both in and out of lockdown.
+
+# PPE 😷
 
 ![Mike Lauderdale's Face Visor Design Printed and Worn Image](images/NMCPrintWorn.png)
 
@@ -28,7 +37,7 @@ The NMC 3D Print Club have been monitoring the national (& international) 'maker
 
 Early on in the crisis we were passed on a design for a protective face visor that although well intentioned was not fit for purpose.
 
-We wanted to contribute and make our own visors, for use in the NMC day to day, so initially we looked at the designs that DoES were making, their community having already gone through lengthy design conversations and decisions, prototypes, wrong turns, success and failure, accommodated a range of issues and problems, before settling on a design they could feasibly and efficiently and safely make. 
+We wanted to contribute and make our own visors, for use in the NMC day to day, so initially we looked at the designs that DoES were making, their community having already gone through lengthy design conversations and decisions, prototypes, wrong turns, success and failure, accommodated a range of issues and problems, before settling on a design they could feasibly and efficiently and safely make.
 
 Their community represents a huge body of amateur and professional knowledge including the persepectives of NHS staff who, although there is no official endorsement from NHS England, have vouched for its usefulness. We think 're-inventing the wheel' ie using a new design will not help anyone, as well meaning as this may be.
 
@@ -36,9 +45,9 @@ So we made a donation to the [DoESLiverpool PPE Manufacturing Project](https://p
 
 ## Print Our Own 🖨️
 
-We are starting to print and test a design by [Maker Mike Lauderdale's Design](https://www.thingiverse.com/thing:4253904/) and we'll be making them available in the NMC or on request but would like a small donation to cover costs. 
+We are starting to print and test a design by [Maker Mike Lauderdale's Design](https://www.thingiverse.com/thing:4253904/) and we'll be making them available in the NMC or on request but would like a small donation to cover costs.
 
-<img src="images/Strap.jpg" width="400" align="center"> 
+<img src="images/Strap.jpg" width="400" align="center">
 
 We are also providing a [Surgical Mask Strap Support](#surgical-mask-strap)
 
@@ -56,7 +65,7 @@ Please contact **[kay.briggs@nmcentre.com](mailto:kay.briggs@nmcentre.com)** to 
 
 Please note that this is a volunteer project and we are making each kit to order so please be patient and we will do our best to get your kit to you within a week.
 
-## What You Get in Your Visor kit 📦 
+## What You Get in Your Visor kit 📦
 
  1. 3D Printed Visor made from [PETG](https://prusament.com/media/2020/01/PETG_TechSheet_ENG.pdf)
  1. 180 Micron A4 Acetate sheet from [Ebay](https://www.ebay.co.uk/itm/25-x-A4-Transparent-Acetate-180-Micron-Clear-PVC-Sheets/353057356757)
@@ -78,7 +87,7 @@ We reviewed this [comprehensive list and notes](https://github.com/DoESLiverpool
 
 ### Surgical Mask Strap 😷
 
-Kay has a [design for a Surgical Mask Strap Support](https://www.thingiverse.com/thing:4202906) that supports long term face mask use. 
+Kay has a [design for a Surgical Mask Strap Support](https://www.thingiverse.com/thing:4202906) that supports long term face mask use.
 
 Wearing and removing a face mask can be tricky, you can effectively spray droplets and contaminate yourself and others with the mask contents if worn carelessly and this looks like it might help keep it securely and comfortably in position.
 
@@ -103,7 +112,7 @@ We'll make sure we make and pack the printed visors as safely as possible and th
 
 ### Will This Protect Myself & Others From Coronavirus? 😷
 
-Only in a limited way. A face visor on it's own will not protect yourself or others against airbourne aerosols or droplets that may carry the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you and others from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course get behind the visor, like wise particulates from exhaling can get around the visor, without the appropriate mask. 
+Only in a limited way. A face visor on it's own will not protect yourself or others against airbourne aerosols or droplets that may carry the coronavirus, it must be combined with an appropriate [FFP3/2 Face mask](https://www.3m.co.uk/3M/en_GB/company-uk/3m-products/~/3M-Disposable-Respirators-8300-Series/). These masks are difficult to make in makerspaces or with 3D printers. The visor design will only shield you and others from aerosols at certain directions and speeds, other particulates circulating in the air, for example in a bathroom with a hand dryer, can of course get behind the visor, like wise particulates from exhaling can get around the visor, without the appropriate mask.
 
 In summary it does provide *some* protection, but only in a *limited* way which we describe here. It is only one part of the required PPE and is not recommended or endorsed by the NHS in any 'official' capacity.
 
@@ -111,7 +120,7 @@ You must always take care removing the visor that you dont spread particulates t
 
 Please ensure read the [Visor Packing Note](https://github.com/cheapjack/NMC3DPrintClub/blob/master/covid19/Visor_Packing_Slip.md) provided before using.
 
-### Can I Use It More Than Once? 🤔 
+### Can I Use It More Than Once? 🤔
 
 Ideally they are single use only because we cannot confirm they can be made 100% sterile. However they *can* be carefully cleaned to a reasonable low risk, with hot soapy water or 99% alcohol handwash as detailed in the diagrams above (not 100% to ensure the alcohol can penetrate the virus lipid surface). Again this is at the users OWN RISK. We advise to only have a **SINGLE USER OF ANY VISOR** and **CLEAN** and **REPLACE** the acetate sheet regularly.
 
@@ -147,5 +156,3 @@ No, to be clear they are not for sale, but available with an expected donation t
 Best help would be to social distance and shield as much as you can under NHS advice and take care of the others around you where possible. Also keep in touch with other members of the NMC community and the [NMC Website](http://www.nmcentre.com/)
 
 You can browse all the source files of the prints and more extensive info in the [project repository](https://github.com/cheapjack/NMC3DPrintClub)
-
-
