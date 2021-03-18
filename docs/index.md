@@ -21,14 +21,14 @@ This club has had a really positive affect on all of us, especially during lockd
 
 <img src="images/PyramidFarmFix2.jpg" wifth="400" align="center" alt="Ant Farm Kit from eBay with 3D printed pyramid">
 
-For a whle now we've been working on 3D printed environments presented as educational 'kits' to play with fruit flys, the '[model organism](https://en.wikipedia.org/wiki/Model_organism)' *Drosophila melanogasta*. This organism is used in genetics and the study of - amongst many other things - neuromuscular conditions like Muscular Dystrophy that affect many of us in the group.
+For a while now we've been working on 3D printed environments presented as educational 'kits' to play with fruit flies, the '[model organism](https://en.wikipedia.org/wiki/Model_organism)' *Drosophila melanogasta*. This organism is used in genetics and the study of - amongst many other things - neuromuscular conditions like Muscular Dystrophy that affect many of us in the group.
 
-Our original idea was to imagine and design  environments Fruit flies that 'had' i.e. expressed the muscular condition that leads to Muscular Dystrophy, could live in. Doing this was a way of thinking about our own genetic conditions and how biomedical science studies neuromuscular conditions. Rather than using flies that actually have muscular dystrophy, we used flies that were already bred and supplied on eBay to be flightless, usually used for people who have aquariums and other pet environments to make 'natural' ecosystems for fish and reptiles. These flies have underdeveloped wings that means they dont fly, a parallel to our own limitations.
+Our original idea was to imagine and design  environments for Fruit flies that 'had' i.e. expressed the muscular condition that leads to Muscular Dystrophy, could live in. Doing this was a way of thinking about our own genetic conditions and how biomedical science studies those conditions. Rather than using flies that actually have muscular dystrophy, we used flies that were already bred and supplied on eBay to be flightless, usually used for people who have aquariums and other pet environments to make 'natural' ecosystems for fish and reptiles. These flies have underdeveloped wings that means they dont fly, a parallel to our own limitations.
 
 
 <img src="images/MazeInProgress.png" wifth="400" align="center" alt="Ant Farm Kit from eBay with 3D printed pyramid">
 
-We are designing 3D printed landscapes and mazes to fit an existing ant farm kit on eBay - see the image above which lets you safely feed and take care of these flys. Eventually we want the kit to help people understand biomedical science and reflect on our own conditions and environments - and how we care for each other both in and out of lockdown.
+We are designing 3D printed landscapes and mazes to fit an existing ant farm kit on eBay - see the image above - which lets you safely feed and take care of these flys. Eventually we want the kit to help people understand biomedical science and reflect on our own conditions and environments - and how we care for each other both in and out of lockdown.
 
 # PPE 😷
 
