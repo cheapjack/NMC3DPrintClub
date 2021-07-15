@@ -1,4 +1,4 @@
-# 3D Print Club Meetup 🛠️
+# 3D Print Club Meetup ⛺🗜️🖨️
 ## 11am - 3pm
 ### The NMC Marquee, at the NeuroMuscular Centre garden, Woodford Lane West, Winsford,CW7 4EH
 
