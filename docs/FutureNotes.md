@@ -5,13 +5,13 @@ We've been working together for over 2 years now designing, thinking, printing, 
 
 ### Models
 
-[Wheelchair frame planking Plate](models/blankingplate/blanking\ plate.stl)
-[iPhone11 Holder](models/Dennis_Phone_Holder/iphone11_holder.stl)
-[iPad Holder](models/Dennis_Phone_Holder/iPadLandscape.stl)
-[PPE Face Shield Frame](models/faceshields/MedicalFaceShieldFixed.stl)
-[Face shield/Surgical mask strap](models/faceshields/MaskStrap.stl)
-[Replacement Joystick for Wheelchair control](#)
-[FlyFarm Maze](#)
+* [Wheelchair frame planking Plate](models/blankingplate/blanking\ plate.stl)
+* [iPhone11 Holder](models/Dennis_Phone_Holder/iphone11_holder.stl)
+* [iPad Holder](models/Dennis_Phone_Holder/iPadLandscape.stl)
+* [PPE Face Shield Frame](models/faceshields/MedicalFaceShieldFixed.stl)
+* [Face shield/Surgical mask strap](models/faceshields/MaskStrap.stl)
+* [Replacement Joystick for Wheelchair control](#)
+* [FlyFarm Maze](#)
 
 
 ### Future Wish list
