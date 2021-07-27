@@ -5,12 +5,12 @@ We've been working together for over 2 years now designing, thinking, printing, 
 
 ### Models
 
-* [Wheelchair frame planking Plate](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/blankingplate/blanking\ plate.stl)
+* [Wheelchair frame planking Plate](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/blankingplate/blanking%20plate.stl)
 * [iPhone11 Holder](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/Dennis_Phone_Holder/iphone11_holder.stl)
 * [iPad Holder](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/Dennis_Phone_Holder/iPadLandscape.stl)
 * [PPE Face Shield Frame](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/faceshields/MedicalFaceShieldFixed.stl)
 * [Face shield/Surgical mask strap](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/faceshields/MaskStrap.stl)
-* [Replacement Joystick for Wheelchair control](https://github.com/cheapjack/NMC3DPrintClub/tree/master/models/joystick/JoystickAdaptation.stl)
+* [Replacement Joystick for Wheelchair control](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/joystick/JosystickAdaptation.stl)
 * [FlyFarm Maze](https://github.com/cheapjack/NMC3DPrintClub/tree/master/InterspeciesGaming/FlyFarms/FlyMaze3.stl)
 
 
