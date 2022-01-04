@@ -11,6 +11,10 @@ The Maximum Print Area is 250 x 210 x 210 mm. In pratice making something even c
  * Print Time
 
  * Materials
-  * PLA
-  * ABS
-  * Alternative Materials
+   * PLA
+   * ABS
+   * Alternative Materials
+
+ * Printers 
+
+We have 2 [Prusa i3 MK3S Printer](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
