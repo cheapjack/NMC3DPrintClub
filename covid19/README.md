@@ -1,6 +1,9 @@
 Face Shield
 ===========
 
+![Image of 3D Printed PPE Face Shield prototype printed and assembled](images/face-visor-main-image.png) 
+
+
   ------------------------ --------------------------
   **Manufacturer Email**   kay.briggs\@nmcentre.com
   **Date of Packaging**    
