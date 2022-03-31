@@ -6,6 +6,6 @@ Please fill in the days you can cover in the retreat
 
 Date|Andy|Chris|Dennis|Kay|Paul|Ross
 --|--|--|--|--|--|--
-Tue 5/4/2022| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[x] </li>|
+Tue 5/4/2022| <input type"checkbox" checked>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[x] </li>|
 Wed 6/4/2022| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>|
 Thu 7/4/2022| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>| <ul><li>[ ] </li>|
