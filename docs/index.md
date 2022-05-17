@@ -1,11 +1,18 @@
 
-![NMC Logo 3D print Model Image](images/NMC.png)
+![NMC Logo 3D print Model Image](images/NMCEnclosure.png)
 
 News, files and guidance for the 3D Print Club at the [NeuroMuscular Centre](http://www.nmcentre.com/)
 
+# Welcome To 3D Print Club! 
+
+The 3D Print club is a friendly space for designing and making 3D objects. You don't need to be an expert or a designer, we'll guide you. Have a look at [Thingiverse](https://thingiverse.com/) the place where the 3D print community share their designs for free for ideas and come and find us in the Retreat - we are usually Tuesdays and Thursdays but please check with Kay and Denise.
+
+Even if you are just curious please   
+
+
 # Background 🛠️
 
-Andy, Chris, Dennis, Jason, Kay, Paul and Ross have been experimenting with the NMC's Prusa i3 Mk3 3D Printer experimenting making [desktop logos](https://github.com/cheapjack/ThoughtsOnTheDesktop/blob/master/models/happySphereLidWithLogo.stl), straw holders for drinks, [phone holders](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/Dennis_Phone_Holder/iphone11_holder.stl) and wheelchair frame [blanking plates](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/blankingplate/blanking%20plate.stl).
+Andy, Chris, Dennis, Jason, Kay, Paul and Ross have been experimenting with the NMC's Prusa i3 Mk3 3D Printer making [desktop logos](https://github.com/cheapjack/ThoughtsOnTheDesktop/blob/master/models/happySphereLidWithLogo.stl), straw holders for drinks, [phone holders](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/Dennis_Phone_Holder/iphone11_holder.stl) and wheelchair frame [blanking plates](https://github.com/cheapjack/NMC3DPrintClub/blob/master/models/blankingplate/blanking%20plate.stl).
 
 Insipred by local makers like [DoESLiverpool](https://doesliverpool.com/) we started printing face visors to help people in the NMC community.
 
